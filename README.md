@@ -1,6 +1,5 @@
 # Website Training 
 
-
 <h2>Task 1 - Info Page</h3>
 <img width=400 alt-'Info Page' src='https://github.com/Utkarsh-Singhal-26/website-training/assets/118098216/0e14475e-af67-4bda-8f30-708fe295b83a'/>
 
